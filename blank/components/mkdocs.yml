@@ -2,7 +2,7 @@ site_name: 'backstage components'
 
 nav:
   - The Component: index.md
-  - Adding Documentation: add-docs.md
+  - Adding Documentation: tkg-workshop.md
 
 plugins:
   - techdocs-core
