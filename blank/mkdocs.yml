@@ -1,8 +1,0 @@
-site_name: 'TKO workshop Document'
-
-nav:
-  - The Catalog: index.md
-  - Adding Documentation: tkg-workshop.md
-
-plugins:
-  - techdocs-core
